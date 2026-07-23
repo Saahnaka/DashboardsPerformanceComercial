@@ -37,4 +37,4 @@ Fique à vontade para entrar em contato ou acompanhar meus outros projetos:
 - **Telefone / WhatsApp:** (11) 93287-7673
 
 ---
-Feito com 💜 por [Sara](https://github.com/Saahnaka)
+Feito com 💜 por [Sara Nakagawa](https://github.com/Saahnaka)
