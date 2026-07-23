@@ -1,15 +1,19 @@
 # 📈 Dashboard de Performance Comercial (Olist)
 
-Um painel analítico interativo de inteligência comercial desenvolvido para monitorar indicadores-chave de desempenho (KPIs), faturamento, comportamento de categorias de produtos e distribuição geográfica de pedidos utilizando dados inspirados na plataforma Olist.
+Um painel interativo de inteligência comercial desenvolvido para monitorar indicadores-chave de desempenho (KPIs), relatórios, comportamento de categorias de produtos e distribuição geográfica de pedidos utilizando dados inspirados na plataforma Olist.
 
-## 🎥 Demonstração do Projeto
+## 🖼️ Prévia do Dashboard
 
-[![Demonstração do Dashboard](./202607121746.mp4)](./202607121746.mp4)
+![Dashboard Olist](./Dashboardolist.png)
+
+## 🎥 Demonstração em Vídeo
+
+- 👉 **[Baixar / Assistir ao Vídeo de Demonstração do Projeto](./video%20Performance%20Comercial.mp4)**
 
 ---
 
-## 🎯 Sobre o Projeto
-Este dashboard foi estruturado para transformar dados brutos de vendas em insights visuais claros e objetivos. Ele permite aos gestores acompanharem a saúde financeira do negócio em tempo real, facilitando tomadas de decisão estratégicas com base em histórico de faturamento e desempenho regional.
+## 🎯 Sobre O Projeto
+Este dashboard foi estruturado para transformar dados brutos de vendas em insights visuais claros e objetivos. Ele permite aos gestores gerenciarem a saúde financeira do negócio em tempo real, facilitando tomadas de decisão estratégicas com base no histórico de faturamento e desempenho regional.
 
 ## 🚀 Principais Funcionalidades e KPIs
 - **Faturamento Total:** Acompanhamento consolidado da receita gerada.
