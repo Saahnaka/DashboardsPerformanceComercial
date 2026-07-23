@@ -4,7 +4,7 @@ Um painel analítico interativo de inteligência comercial desenvolvido para mon
 
 ## 🎥 Demonstração do Projeto
 
-<video src="./202607121746.mp4" controls width="100%"></video>
+[![Demonstração do Dashboard](./202607121746.mp4)](./202607121746.mp4)
 
 ---
 
